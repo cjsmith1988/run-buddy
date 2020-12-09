@@ -12,3 +12,5 @@ https://lernantino.gitgub.io/run-buddy/
 
 ## COntribution
 Made with ❤️ by Curt Smith
+
+### ©️2019 Run Buddy, Inc 
